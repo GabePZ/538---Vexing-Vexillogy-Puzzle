@@ -1,4 +1,6 @@
 # 538---Vexing-Vexillogy-Puzzle
+
+## The puzzle
 In this puzzle we had to determine what country 3 scrambled flags belonged to.
 Link to puzzle: https://fivethirtyeight.com/features/can-you-solve-the-vexing-vexillology/
 
@@ -15,7 +17,7 @@ Flag C:
 ![Flag C](https://fivethirtyeight.com/wp-content/uploads/2020/01/flag_3.png?w=498)
 
 
-# My Solution
+## My Solution
 I needed a way to compare these scrambled flags to all of the unscrambled flags.
 
 The most obvious way to do this is just sort by pixel color. I wrote some python code to modify an image by sorting its pixels by color which I could then use to compare to known flags which had undergone the same sorting.
