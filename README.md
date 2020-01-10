@@ -32,16 +32,19 @@ I then looked at the top 35 matches manually and chose what I thought were the b
 
 Here is what the sorted flags look like in comparison with the top 35 known sorted flags along with the associated RMSE values between the unknown sorted flag and the known sorted flags.
 
+Flag A is 1:1:1 red white and blue. This could either be France, Russia, or the Netherlands. Lets go with the Netherlands since it's the least obvious choice and thus maximizes our chance of being the only one who got this correct.
+
 ![Flag_A](./flag_a.png)
 
-Here it looks like flag_a is 1:1:1 red white and blue. This could either be France, Russia, or the Netherlands. 
-
+Flag B is clearly only a good match with Brazil
 ![Flag_B](/flag_b.png)
 
-Here the flag clearly most closely resembles Brazil
-
+Flag C is a bit more tough than the first two but based on the lack of any black in the unknown flag Nambia seems like the best choice.
 ![Flag_c](./flag_c.png)
 
-Here the flag seems to most closely resemble Nambia
+So there are my three choices:
 
+Flag A: Netherlands (also could be France or Russia)
+Flag B: Brazil
+Flag C: Nambia
 
