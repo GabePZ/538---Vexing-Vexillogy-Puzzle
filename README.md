@@ -30,7 +30,7 @@ To save myself the effort of manually comparing hundreds of flags against the un
 
 I then looked at the top 35 matches manually and chose what I thought were the best options.
 
-Here is what the sorted flags look like in comparison with the top 35 known sorted flags:
+Here is what the sorted flags look like in comparison with the top 35 known sorted flags along with the associated RMSE values between the unknown sorted flag and the known sorted flags.
 
 ![Flag_A](./flag_a.png)
 
