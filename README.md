@@ -32,3 +32,16 @@ I then looked at the top 35 matches manually and chose what I thought were the b
 
 Here is what the sorted flags look like in comparison with the top 35 known sorted flags:
 
+![Flag_A](./flag_a.png)
+
+Here it looks like flag_a is 1:1:1 red white and blue. This could either be France, Russia, or the Netherlands. 
+
+![Flag_B](/flag_b.png)
+
+Here the flag clearly most closely resembles Brazil
+
+![Flag_c](./flag_c.png)
+
+Here the flag seems to most closely resemble Nambia
+
+
