@@ -1,8 +1,7 @@
 # 538---Vexing-Vexillogy-Puzzle
 
 ## The puzzle
-In this puzzle we had to determine what country 3 scrambled flags belonged to.
-Link to puzzle: https://fivethirtyeight.com/features/can-you-solve-the-vexing-vexillology/
+In this [puzzle](https://fivethirtyeight.com/features/can-you-solve-the-vexing-vexillology/) we had to determine what country 3 scrambled flags belonged to.
 
 Flag A:
 
